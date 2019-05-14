@@ -168,4 +168,5 @@ main {
     color: #737373;
     width: 35px;
     text-align: center;
+    display: inline-block;
 }
